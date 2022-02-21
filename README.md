@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pasansamara96
-- 👀 I’m interested in 5G, IoT, Blockchain
+- 👀 I’m interested in 5G, IoT and Blockchain technology
+- 🌱 I’m currently learning about Smart Cities and AI at VUB
 - 📫 Reach me at pasansamara96
-<!---🌱 I’m currently learning ...
+<!---🌱 I’m currently learning about Artificial Intelligence and Smart Cities at VUB
 💞️ I’m looking to collaborate on ...
 --->
 
